@@ -1,0 +1,9 @@
+{
+  "name": "website-brief-engine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dependency-free website brief validation and scope planning.",
+  "type": "module",
+  "scripts": { "test": "node --test", "example": "node example.js" },
+  "engines": { "node": ">=22" }
+}
